@@ -1,0 +1,14 @@
+D:\KTOOP\KiemTraOOP\KiemTraOOP\obj\Debug\KiemTraOOP.csprojAssemblyReference.cache
+D:\KTOOP\KiemTraOOP\KiemTraOOP\obj\Debug\KiemTraOOP.csproj.CoreCompileInputs.cache
+D:\KTOOP\KiemTraOOP\KiemTraOOP\bin\Debug\KiemTraOOP.exe.config
+D:\KTOOP\KiemTraOOP\KiemTraOOP\bin\Debug\KiemTraOOP.exe
+D:\KTOOP\KiemTraOOP\KiemTraOOP\bin\Debug\KiemTraOOP.pdb
+D:\KTOOP\KiemTraOOP\KiemTraOOP\obj\Debug\KiemTraOOP.exe
+D:\KTOOP\KiemTraOOP\KiemTraOOP\obj\Debug\KiemTraOOP.pdb
+D:\KiemTraOOP\KiemTraOOP\bin\Debug\KiemTraOOP.exe.config
+D:\KiemTraOOP\KiemTraOOP\bin\Debug\KiemTraOOP.exe
+D:\KiemTraOOP\KiemTraOOP\bin\Debug\KiemTraOOP.pdb
+D:\KiemTraOOP\KiemTraOOP\obj\Debug\KiemTraOOP.csprojAssemblyReference.cache
+D:\KiemTraOOP\KiemTraOOP\obj\Debug\KiemTraOOP.csproj.CoreCompileInputs.cache
+D:\KiemTraOOP\KiemTraOOP\obj\Debug\KiemTraOOP.exe
+D:\KiemTraOOP\KiemTraOOP\obj\Debug\KiemTraOOP.pdb
